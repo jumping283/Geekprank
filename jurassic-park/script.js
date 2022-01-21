@@ -178,7 +178,7 @@ function alarm() {
 	}
 	if (a == 125) {
 		a = -1;
-		window.location.replace("https://geekprank.com/jurassic-park/console/");
+		window.location.replace("https://jumping283.github.io/Geekprank/jurassic-park/console/");
 	}
 	
 	
